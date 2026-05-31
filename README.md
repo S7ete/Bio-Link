@@ -12,4 +12,4 @@ Personal project only. You may not use, copy, or claim this project as your own.
 
 🔗 https://discord.gg/As2MMYZQrd
 
-© Sev, Mon, aw5c
+© Sev - Mon, aw5c
