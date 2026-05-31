@@ -11,3 +11,5 @@ Personal project only. You may not use, copy, or claim this project as your own.
 - JavaScript
 
 🔗 https://discord.gg/As2MMYZQrd
+
+© Sev, Mon, aw5c
